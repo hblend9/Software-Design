@@ -1,0 +1,4 @@
+wc:
+    script: "/testers/cs3/project00/wc/test"
+longest:
+    script: "/testers/cs3/project00/longest/test"
