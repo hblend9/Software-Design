@@ -1,0 +1,42 @@
+
+OPTIONS
+    --help, -h
+        Print this help message to standard out and exit.
+    --players COUNT, -p COUNT
+        Play the game with COUNT players. You have play with 2 to 4 players
+        inclusive. Default: 4.
+    --balls-per-round COUNT, -b COUNT
+        Play with COUNT balls per round. This can be 1 to 50 balls inclusive.
+        Default: 30.
+
+HOW TO PLAY EXTREMELY HUNGRY HUNGRY HIPPOS, THE GAME
+    This is a round-based version of hungry hungry hippos, with powerups. The
+    premise is that you are a hippo who must consume balls (some of which have
+    powers) to satiate your extreme hunger. The reason you are so hungry is
+    because you are bad at eating.
+
+    Each round ends when all the balls have been consumed. The player who got
+    the most points that round is eliminated, and the remaining players progress
+    until there is one player left.
+
+    You can view your points and a cryptic description of your currently
+    selected powerup, as well as how many powerups you have. You'll have to
+    play for yourself to get a sense of what these descriptions mean.
+
+    To be a hippo, refer to the table of key controls below. Hint: connect
+    multiple keyboards for maximum players and maximum fun. In the table, CW and
+    CCW mean to move clockwise and anticlockwise around the pond respectively;
+    EAT means to elongate your hippo neck for consumption; ACTIVATE means to
+    activate your currently selected powerup; and SWITCH means to change your
+    currently selected powerup to the next one in your list.
+
+    |-------+------+-------+-----+----------+--------|
+    | Hippo | CW   | CCW   | EAT | ACTIVATE | SWITCH |
+    |-------+------+-------+-----+----------+--------|
+    | 0     | LEFT | RIGHT | UP  | DOWN     | /      |
+    | 1     | A    | D     | W   | S        | E      |
+    | 2     | H    | L     | J   | K        | I      |
+    | 3     | 1*   | 3*    | 5*  | 2*       | 4*     |
+    |-------+------+-------+-----+----------+--------|
+
+    *Keypad numbers, not top-row numbers.

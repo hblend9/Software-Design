@@ -1,0 +1,9 @@
+# Vim
+*.swp
+curr_session.vim
+
+# Windows being a shitter?
+vc140.pdb
+
+# Local todos.
+TODO.tmp
